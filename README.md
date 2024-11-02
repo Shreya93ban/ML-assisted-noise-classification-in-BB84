@@ -1,1 +1,2 @@
 # ML-assisted-noise-classification-in-BB84
+We have developed a machine learning-assisted noise classification tool for Quantum Communication protocols. We have assumed two types of noises, depolarizing and bit-flip noises, and generated Quantum bit error rates (QBER) in the BB84 protocol using IBM-Qiskit for both noise categories. Further, we identified certain properties of the distributions that can be used as features to classify the noise channels. 
